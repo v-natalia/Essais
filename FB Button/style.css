@@ -1,0 +1,45 @@
+/*CSS*/
+body{
+  text-align: center
+}
+
+.btn-btn-lg  {
+  background-color: #4267b2;
+  border: 1px solid #4267b2;
+  border-radius: 3px;
+  font-size: 23px;
+  height: 30px;
+  padding: 3 3 3 3px;
+  font-family: Lucida Grande, sans-serif;
+}
+
+.btn-btn-lg:hover {
+  background-color: #365899;
+  border: 1px solid #365899;
+}
+
+
+.glyphicon {
+  color:white;
+}
+
+.like {
+  font-family: Helvetica, Arial, sans-serif;
+  vertical-align: middle;
+  font-weight: bold;
+  font-size: 11px;
+  color:white;
+}
+
+.count {
+  font-family: Helvetica, Arial, sans-serif;
+  vertical-align: middle;
+  font-size: 11px;
+  color:white;
+  font-weight: normal;
+}
+
+
+
+
+
