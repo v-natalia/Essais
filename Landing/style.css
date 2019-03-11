@@ -1,0 +1,96 @@
+/* style.css */
+body
+{
+  background: rgb(245,245,245);
+  color: gray;
+  font-size: 25px;
+  font-family: 'Noto Serif SC', serif;
+}
+
+h1
+{
+  font-family: 'Noto Serif SC', serif;
+  color: #77878b;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+h2 
+{
+  font-family: 'Noto Serif SC', serif;
+  color: #305252;
+  font-weight: lighter;
+  font-size: 20px;
+}
+
+a 
+{
+  color: gray;
+}
+
+a:hover 
+{
+  text-decoration: none;
+  color: black;
+}
+
+#banner
+{
+  text-align: center;
+  background-image: url(images/photo.jpeg);
+  background-size: cover;
+  padding: 150px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+
+#banner h1 
+{
+  color: white;
+  font-size: 50px;
+}
+
+#banner p 
+
+{
+  color: white;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+}
+
+#footer
+{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: #373e40;
+  font-size: 20px;
+  text-align: right;
+}
+
+#footer p
+{
+  color: #b7d5d4;
+}
+.card
+{
+  padding: 40px;
+  font-weight: lighter;
+  text-align: center;
+}
+
+#footer a 
+{
+  color: #b7d5d4;
+  font-size: 15px;
+}
+
+#footer a:hover 
+{
+  color: white;
+}
+
+#credits
+{
+  font-size: 15px;
+}
